@@ -1,4 +1,4 @@
-<h1 align="center">Siemka 🙋‍♂️, Ja Jestemtem Grubiutki</h1>
+<h1 align="center">Siemka 🙋‍♂️, Ja Jestem Grubiutki</h1>
 <h3 align="center">Osoba która lubi programować, technik informejtik</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/93e659f0ba1cb5eb3b2ed6063ce1cb5e/a460cbb322dbb08a-2c/s400x600/889b01ef362af69335b71f194b7ad94ad82e0906.gif" style="border-radius: 15px;">
 
