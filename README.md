@@ -1,1 +1,1 @@
-<h1 align="center">Student of: Frontend, cybersecurity</h1>
+<h1 align="center">Frontend and cybersecurity student</h1>
