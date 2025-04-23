@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/469533331382468617/65b8993dbc5bbbf388c7b844e36f03ca.webp?size=1024"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
